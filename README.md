@@ -29,21 +29,19 @@ Clone the repository:
 git clone .....
 Navigate to the project directory:
 
-
 cd your-repository
 Install the dependencies:
 
-
 npm install
 Run the development server:
-
 
 npm run dev
 Open your browser and navigate to http://localhost:3000 to view the website.
 
 ## Screenshots
+
 ![Screenshot 1](src/assets/gitReadme/page1.png)
 ![Screenshot 1](src/assets/gitReadme/page2.png)
 
 Demo Link
-You can view the live demo of this project [here](https://google.com).
+You can view the live demo of this project [here](https://ai-chatbot-by-aman.vercel.app/).
